@@ -1,0 +1,63 @@
+Technologies:
+
+Hardware: Arduino Uno, Vibration Sensor (SW-420), Voltage Sensor, Temperature Sensor (LM35/DS18B20), Current Sensor (ACS712), LCD Display, Relay, Buzzer, and Exhaust Fan Motor.
+
+Software: Python, NumPy, Matplotlib, Scikit-learn (Random Forest Classifier), Arduino IDE.
+
+Description:
+This project implements a predictive maintenance system for AC exhaust fans using machine learning to detect early signs of potential failures. The system integrates multiple sensors to monitor the motor's operating conditions, such as temperature, vibration, voltage, and current. Real-time data from these sensors is fed into a machine learning model—specifically, a Random Forest classifier—that can predict the health status of the fan.
+
+Key Features:
+
+Real-Time Monitoring: Continuously collects and analyzes sensor data to detect anomalies like vibration, overheating, or electrical imbalances, which could indicate mechanical failure.
+
+Machine Learning Model: Uses a Random Forest algorithm to classify the health of the AC exhaust fan (Normal, Warning, or Critical). Other algorithms like SVM and Logistic Regression are also explored for comparison.
+
+Alert System: Generates alerts using an LCD display, buzzer, and warning light when an anomaly is detected, prompting immediate preventive maintenance.
+
+Hardware Integration: Uses Arduino to collect sensor data and control the fan’s operations. The system automatically shuts down the fan if it detects critical faults, minimizing damage.
+
+Project Highlights:
+
+Data Acquisition: Uses a combination of sensors (temperature, vibration, current, and voltage) to simulate real-world conditions.
+
+ML Model Training: The collected data is processed and fed into a Random Forest classifier to classify the fan’s health status. The system is trained with historical data (normal and faulty conditions).
+
+Real-Time Decision-Making: Provides a scalable, cost-effective solution to monitor and predict the maintenance needs of AC exhaust fans, enhancing reliability and reducing downtime.
+
+Hardware:
+
+Arduino Uno: Main controller for the system.
+
+Sensors: Voltage, current, temperature, and vibration sensors monitor the fan's operational health.
+
+Relay Module: Used to control the fan’s operation based on the predicted health status.
+
+Buzzer and LCD: Alerts the user with visual and auditory indicators.
+
+Methodology:
+
+Data Collection: Real-time data is acquired from the fan’s sensors.
+
+Preprocessing: Data normalization and feature engineering are applied to extract relevant signals (e.g., RMS, skewness).
+
+Model Training: The data is used to train several machine learning algorithms, with Random Forest achieving the highest accuracy (98%).
+
+Deployment: The trained model is implemented in the embedded system for real-time monitoring and predictions.
+
+Software Description:
+
+Python Libraries: NumPy, Matplotlib, Scikit-learn were used for data processing, training the machine learning model, and visualizing results.
+
+Arduino IDE: Used to program the microcontroller and collect sensor data.
+
+Model: The Random Forest Classifier was trained to distinguish between normal and faulty fan conditions, achieving an accuracy of 98%.
+
+Future Work:
+
+Implement edge deployment techniques for running the model on low-power embedded systems.
+
+Explore additional activation functions like GELU or Leaky ReLU to enhance performance.
+
+Investigate sensor fusion for combining various sensor types to improve predictive accuracy.
+
