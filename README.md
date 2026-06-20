@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:00F7FF&text=KUSHAL%20THOKDAR&fontColor=ffffff&fontSize=55&fontAlignY=42&animation=fadeIn&desc=Machine%20Learning%20Engineer%20in%20Progress&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Electrical+Engineering+Student;Predictive+Maintenance+Developer;Embedded+Systems+Explorer;Building+The+Future+With+Data"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Electrical+Engineer;Working+at+Indian+Nippon+Electrical+Ltd;Embedded+Systems+Explorer;Building+The+Future+With+Artificial Intelligence"/>
 
 <br/>
 
