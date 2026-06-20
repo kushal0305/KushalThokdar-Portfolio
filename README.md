@@ -1,21 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,100:004e92&text=KUSHAL%20THOKDAR&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KUSHAL%20THOKDAR&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Electrical+Engineer;Working+at+Indian+Nippon+Electrical+Ltd;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+Intelligent+Industrial+Systems"/>
-
-<br><br>
-
-<img src="https://cdn-icons-png.flaticon.com/512/1244/1244297.png" width="120"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electrical+Engineer;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+Intelligent+Industrial+Systems"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Electrical_Engineer-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spider_Man_Fan-00F7FF?style=for-the-badge"/>
 
 </div>
+
 
 ---
 
