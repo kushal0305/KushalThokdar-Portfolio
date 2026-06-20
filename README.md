@@ -114,41 +114,59 @@ The project combines sensor data acquisition, embedded systems, and machine lear
 
 # 🏗️ Project Architecture
 
-```txt
-╭─────────────────────────────────────╮
-│     ⚡ INDUSTRIAL AI NETWORK ⚡      │
-╰─────────────────────────────────────╯
+# 🏗️ Project Architecture
 
-🌡️ Temperature Sensor
-        ⟫
-⚡ Current Sensor
-        ⟫
-📳 Vibration Sensor
-
-             ⇣
-
-      📡 Data Acquisition
-
-             ⇣
-
-      🧠 Neural ML Core
-       (Random Forest)
-
-             ⇣
-
-      🔮 Failure Forecast
-
-             ⇣
-
-      🚨 Smart Alert System
-
-             ⇣
-
-      🏭 Predictive Maintenance
-```
 <div align="center">
-  <img src="./assets/predictive-maintenance-animation.gif" width="900"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=1200&lines=🌡️+Temperature+Sensor+→+📡+Data+Collection;⚡+Current+Sensor+→+📊+Data+Processing;📳+Vibration+Sensor+→+🔬+Feature+Extraction;🔬+Feature+Extraction+→+🧠+Random+Forest+Model;🧠+Random+Forest+Model+→+🔮+Failure+Prediction;🔮+Failure+Prediction+→+🚨+Maintenance+Alert"/>
+
 </div>
+
+```txt
+┌─────────────────────┐
+│ 🌡️ Temperature Data │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ ⚡ Current Data     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 📳 Vibration Data   │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 📡 Data Collection  │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 📊 Data Processing  │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 🔬 Feature Extraction│
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 🧠 Random Forest ML │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 🔮 Failure Prediction│
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ 🚨 Maintenance Alert│
+└─────────────────────┘
+```
 
 # 🔬 Hardware Components
 
