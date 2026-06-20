@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 🚀 COMMAND CENTER
+</marquee> 🚀 ABOUT ME <marquee/>
 
 </div>
 
