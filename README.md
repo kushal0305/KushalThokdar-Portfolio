@@ -1,14 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KUSHAL%20THOKDAR&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=KUSHAL%20THOKDAR&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electrical+Engineer;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+Intelligent+Industrial+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=🕷️+Friendly+Neighborhood+Engineer;Electrical+Engineer;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+The+Future+With+AI"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/o7YktoaRh1WDdCMW1u/giphy.gif" width="250"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Electrical_Engineer-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🕷️-Spider--Verse-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical_Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕸️ Welcome To My AI Laboratory 🕸️
+
+*"With great power comes great responsibility — with great data comes great intelligence."*
 
 </div>
 
