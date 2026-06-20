@@ -114,31 +114,9 @@ The project combines sensor data acquisition, embedded systems, and machine lear
 
 # 🏗️ Project Architecture
 
-```txt
-Electrical Equipment
-          │
-          ▼
-Temperature Sensor
-Current Sensor
-Vibration Sensor
-          │
-          ▼
-Data Collection Layer
-          │
-          ▼
-Data Processing
-          │
-          ▼
-Random Forest Model
-          │
-          ▼
-Failure Prediction
-          │
-          ▼
-Maintenance Alert System
-```
-
----
+<div align="center">
+  <img src="./assets/predictive-maintenance-animation.gif" width="900"/>
+</div>
 
 # 🔬 Hardware Components
 
