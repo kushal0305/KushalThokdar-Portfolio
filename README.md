@@ -1,16 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:00F7FF&text=KUSHAL%20THOKDAR&fontColor=ffffff&fontSize=55&fontAlignY=42&animation=fadeIn&desc=Electrical%20Engineer%20%7C%20Machine%20Learning%20%26%20AI%20Enthusiast&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Electrical+Engineer;Working+at+Indian+Nippon+Electrical+Ltd;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+Intelligent+Industrial+Systems"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Electrical%20Engineer-00F7FF?style=for-the-badge&logo=lightning&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=KUSHAL%20THOKDAR&fontSize=50&fontColor=ffffff"/>
 
 </div>
+
 
 ---
 
