@@ -114,6 +114,38 @@ The project combines sensor data acquisition, embedded systems, and machine lear
 
 # 🏗️ Project Architecture
 
+```txt
+╭─────────────────────────────────────╮
+│     ⚡ INDUSTRIAL AI NETWORK ⚡      │
+╰─────────────────────────────────────╯
+
+🌡️ Temperature Sensor
+        ⟫
+⚡ Current Sensor
+        ⟫
+📳 Vibration Sensor
+
+             ⇣
+
+      📡 Data Acquisition
+
+             ⇣
+
+      🧠 Neural ML Core
+       (Random Forest)
+
+             ⇣
+
+      🔮 Failure Forecast
+
+             ⇣
+
+      🚨 Smart Alert System
+
+             ⇣
+
+      🏭 Predictive Maintenance
+```
 <div align="center">
   <img src="./assets/predictive-maintenance-animation.gif" width="900"/>
 </div>
