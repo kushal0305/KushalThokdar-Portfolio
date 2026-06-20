@@ -4,22 +4,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-# ⚡ NEURAL PROFILE
-
-```txt
-Name      : Kushal Thokdar
-Role      : Engineering Student
-Domain    : Machine Learning
-Focus     : Predictive Maintenance
-Status    : Learning • Building • Exploring
-Mission   : Transform Data into Intelligence
-```
-
-</div>
 
 ---
 
