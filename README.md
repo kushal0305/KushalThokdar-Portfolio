@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:00F7FF&text=KUSHAL%20THOKDAR&fontColor=ffffff&fontSize=55&fontAlignY=42&animation=fadeIn&desc=Electrical%20Engineer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:00F7FF&text=KUSHAL%20THOKDAR&fontColor=ffffff&fontSize=55&fontAlignY=42&animation=fadeIn&desc=Electrical%20Engineer%20%7C%20Machine%20Learning%20%26%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Electrical+Engineer;Working+at+Indian+Nippon+Electrical+Ltd;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+Intelligent+Industrial+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Electrical+Engineer;Working+at+Indian+Nippon+Electrical+Ltd;Machine+Learning+%26+AI+Enthusiast;Predictive+Maintenance+Specialist;Building+Intelligent+Industrial+Systems"/>
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/ROLE-ELECTRICAL%20ENGINEER-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING%20%26%20AI-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROJECT-PREDICTIVE%20MAINTENANCE-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical%20Engineer-00F7FF?style=for-the-badge&logo=lightning&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
 
 </div>
 
@@ -16,11 +16,25 @@
 
 # ⚡ About Me
 
-I am **Kushal Thokdar**, an Electrical Engineer currently working at **Indian Nippon Electrical Ltd**.
+```yaml
+Name: Kushal Thokdar
 
-My interests lie in **Machine Learning**, **Artificial Intelligence**, **Predictive Maintenance**, **Embedded Systems**, and **Industrial Automation**.
+Role:
+  Electrical Engineer
 
-I enjoy building intelligent systems that combine engineering principles with AI-driven decision-making to solve real-world industrial challenges.
+Organization:
+  Indian Nippon Electrical Ltd
+
+Focus Areas:
+  - Machine Learning
+  - Artificial Intelligence
+  - Predictive Maintenance
+  - Embedded Systems
+  - Industrial Automation
+
+Mission:
+  Engineering Intelligence For The Future
+```
 
 ---
 
@@ -28,9 +42,9 @@ I enjoy building intelligent systems that combine engineering principles with AI
 
 ## 🤖 Machine Learning-Based Predictive Maintenance of Electrical Components
 
-An intelligent maintenance platform developed to monitor electrical equipment, analyze operational conditions, and predict failures before they occur.
+An intelligent maintenance system developed to monitor electrical equipment and predict failures before they occur.
 
-The system uses machine learning algorithms and sensor data to improve equipment reliability, reduce downtime, and support smarter maintenance decisions.
+The project combines sensor data acquisition, embedded systems, and machine learning algorithms to improve reliability and reduce downtime.
 
 ---
 
@@ -38,37 +52,37 @@ The system uses machine learning algorithms and sensor data to improve equipment
 
 ### 📊 Real-Time Monitoring
 
-✔ Temperature Monitoring
+✔ Temperature Analysis
 
-✔ Current Consumption Analysis
+✔ Current Monitoring
 
-✔ Vibration Tracking
+✔ Vibration Detection
 
-✔ Equipment Health Assessment
+✔ Equipment Health Tracking
 
-✔ Performance Analytics
+✔ Performance Evaluation
 
-### 🧠 Machine Learning Intelligence
+### 🧠 Machine Learning Engine
 
-✔ Data Collection & Processing
+✔ Data Collection
+
+✔ Data Processing
 
 ✔ Feature Extraction
 
 ✔ Random Forest Algorithm
 
-✔ Fault Detection
+✔ Fault Prediction
 
-✔ Failure Prediction
+✔ Maintenance Alerts
 
-✔ Predictive Alerts
+### ⚙️ Embedded Integration
 
-### ⚙️ Embedded System Integration
+✔ Arduino Interface
 
-✔ Arduino-Based Interface
+✔ Sensor Connectivity
 
-✔ Sensor Integration
-
-✔ LCD Monitoring System
+✔ LCD Monitoring
 
 ✔ Hardware & Software Communication
 
@@ -95,17 +109,16 @@ Current Sensor
 Vibration Sensor
           │
           ▼
-Data Acquisition Layer
+Data Collection Layer
           │
           ▼
-Feature Extraction
+Data Processing
           │
           ▼
-Machine Learning Engine
-(Random Forest)
+Random Forest Model
           │
           ▼
-Predictive Analysis
+Failure Prediction
           │
           ▼
 Maintenance Alert System
@@ -122,112 +135,76 @@ Temperature Sensor
 Current Sensor
 Vibration Sensor
 LCD Display
-Power Supply Unit
-Machine Learning Model
+Machine Learning Algorithms
+Python Environment
 ```
 
 ---
 
-# 📚 Current Focus Areas
+# 📚 Currently Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode"/>
+
+</div>
 
 ```txt
 Machine Learning
 Artificial Intelligence
-Predictive Maintenance
+Predictive Analytics
 Industrial Automation
 Embedded Systems
-Data Analytics
 FPGA Applications
-Python Development
+Data Science
 ```
 
 ---
 
-# 🎯 Professional Objectives
+# 🎯 Professional Goals
 
-### Short-Term Goals
+### Short-Term
 
-✔ Advance Machine Learning Expertise
+- Master Machine Learning Techniques
+- Build Advanced AI Projects
+- Explore Industrial Automation Solutions
+- Improve Embedded System Development
 
-✔ Build Intelligent Industrial Solutions
+### Long-Term
 
-✔ Explore AI Applications in Engineering
-
-✔ Develop Industry-Focused Projects
-
-### Long-Term Goals
-
-✔ Become an AI & Machine Learning Specialist
-
-✔ Design Smart Predictive Systems
-
-✔ Contribute to Industrial Innovation
-
-✔ Build Intelligent Automation Platforms
+- Become an AI & Machine Learning Specialist
+- Design Intelligent Industrial Systems
+- Build Predictive Maintenance Platforms
+- Contribute To Smart Manufacturing Technologies
 
 ---
 
-# 🌌 Professional Profile
-
-```yaml
-Name: Kushal Thokdar
-
-Role:
-  Electrical Engineer
-
-Organization:
-  Indian Nippon Electrical Ltd
-
-Specialization:
-  Machine Learning
-  Artificial Intelligence
-  Predictive Maintenance
-  Embedded Systems
-
-Status:
-  Learning
-  Building
-  Innovating
-
-Mission:
-  Transform AI Into Intelligent Solutions
-```
-
----
-
-# ⚙️ System Metrics
+# ⚙️ System Status
 
 ```txt
-Machine Learning      ████████░░ 80%
+Machine Learning         ████████░░ 80%
 
-Artificial Intelligence ███████░░░ 75%
+Artificial Intelligence  ███████░░░ 75%
 
-Project Development   █████████░ 90%
+Project Development      █████████░ 90%
 
-Industrial Automation ████████░░ 80%
+Embedded Systems         ████████░░ 80%
 
-Innovation Drive      ██████████ 100%
+Innovation Drive         ██████████ 100%
 
-Curiosity Level       ██████████ 100%
+Learning Mode            ██████████ ACTIVE
 ```
 
 ---
 
 # 🚀 Future Innovations
 
-### Upcoming Exploration Areas
-
-* Advanced Predictive Maintenance Systems
-
-* Industrial AI Solutions
-
-* IoT-Based Monitoring Platforms
-
-* Deep Learning Applications
-
-* Smart Factory Automation
-
-* Real-Time Fault Detection Systems
+- Advanced Predictive Maintenance Systems
+- AI-Powered Industrial Monitoring
+- Smart Factory Solutions
+- Deep Learning Applications
+- IoT-Based Automation Platforms
+- Real-Time Fault Detection Systems
 
 ---
 
@@ -237,14 +214,14 @@ Curiosity Level       ██████████ 100%
 Observe → Analyze → Predict → Optimize → Innovate
 ```
 
-Building intelligent systems where engineering meets artificial intelligence.
+**Building intelligent systems where Engineering meets Artificial Intelligence.**
 
 ---
 
 <div align="center">
 
-## ⚡ "Engineering Intelligence For The Future."
+### ⚡ Engineering Intelligence For The Future ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000428,50:004e92,100:00F7FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000428,50:004e92,100:00F7FF&section=footer"/>
 
 </div>
