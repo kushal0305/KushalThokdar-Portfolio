@@ -26,7 +26,7 @@ Mission:
   - Developing Embedded Solutions
   - Learning FPGA Acceleration
 
-System Version: 1.0.0
+
 ```
 
 ---
