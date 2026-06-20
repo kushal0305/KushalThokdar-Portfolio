@@ -1,135 +1,230 @@
-# 👋 Hello, I'm Kushal
+# <div align="center">
 
-### 🚀 Building Intelligent Systems for the Future
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=KUSHAL+THOKDAR;Machine+Learning+Engineer;Embedded+Systems+Developer;Building+The+Future+With+AI" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 COMMAND CENTER
+
+</div>
+
+```yaml
+Name: Kushal Thokdar
+Role: Machine Learning Engineer
+Education: B.Tech Student
+Specialization: Electrical + AI Systems
+
+Current Status: ACTIVE
+
+Mission:
+  - Building Intelligent Maintenance Systems
+  - Exploring Machine Learning Applications
+  - Developing Embedded Solutions
+  - Learning FPGA Acceleration
+
+System Version: 1.0.0
+```
+
+---
+
+# ⚡ About Me
 
 ```txt
 > Initializing Developer Profile...
-> Loading Machine Learning Models...
-> Connecting Embedded Hardware...
-> System Ready ✓
+
+I am passionate about building intelligent systems that
+combine Machine Learning, Embedded Electronics, and
+Industrial Automation.
+
+My goal is to create technologies that can predict,
+analyze, and optimize real-world systems before
+failures occur.
+
+Status: Learning ✔
+Building ✔
+Innovating ✔
+
+> Profile Loaded Successfully
 ```
 
-## 🌌 About Me
-
-I am an aspiring Machine Learning and Embedded Systems Developer passionate about transforming real-world engineering problems into intelligent solutions.
-
-My interests lie at the intersection of:
-
-⚡ Electrical Systems
-🤖 Machine Learning
-🔧 Embedded Development
-📊 Data Analytics
-🚀 Edge AI & FPGA Computing
-
-Currently, I am exploring how predictive intelligence can improve the reliability, efficiency, and sustainability of industrial systems.
-
 ---
 
-## 🧠 Current Mission
+# 🌌 Core Domains
 
-Designing smart maintenance solutions that can:
+<table>
+<tr>
+<td>
 
-✔ Detect failures before they occur
-✔ Reduce equipment downtime
-✔ Improve operational efficiency
-✔ Enable data-driven decision making
+### 🤖 Artificial Intelligence
 
----
+* Machine Learning
+* Predictive Analytics
+* Data Processing
+* Model Development
 
-## 🔬 Featured Project
+</td>
 
-### Predictive Maintenance of Electrical Components
+<td>
 
-An intelligent monitoring system designed to predict failures in AC exhaust fans using Machine Learning and sensor data.
+### ⚙️ Embedded Systems
 
-#### Technologies Used
-
-* Python
-* Random Forest Algorithm
 * Arduino
-* PYNQ-Z2 FPGA
-* Temperature Sensors
-* Current Sensors
-* Vibration Sensors
-* LCD Interface
+* Sensor Integration
+* Hardware Interfacing
+* Real-Time Monitoring
 
-#### Key Features
+</td>
+</tr>
 
-⚡ Real-time sensor monitoring
+<tr>
+<td>
 
-📈 Predictive failure analysis
+### 📊 Data Science
 
-🛠 Preventive maintenance recommendations
+* Data Analysis
+* Visualization
+* Feature Engineering
+* Statistical Learning
 
-📊 Data visualization and analytics
+</td>
 
-🔄 Hardware-software integration
+<td>
+
+### 🚀 Future Technologies
+
+* FPGA Computing
+* Edge AI
+* Industrial IoT
+* Smart Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 🔬 Featured Project
 
-### Programming
+## Machine Learning Based Predictive Maintenance
+
+### Objective
+
+Develop an intelligent monitoring system capable of predicting failures in electrical equipment before breakdown occurs.
+
+### Technologies
 
 ```python
 Python
-C
-Embedded C
+Random Forest
+Arduino
+PYNQ-Z2 FPGA
+Temperature Sensors
+Current Sensors
+Vibration Sensors
 ```
+
+### Features
+
+```txt
+✓ Real-Time Monitoring
+
+✓ Sensor Data Acquisition
+
+✓ Failure Prediction
+
+✓ Preventive Maintenance Alerts
+
+✓ Hardware + Software Integration
+
+✓ Industrial Application Ready
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c)
 
 ### Machine Learning
 
-```python
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-```
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge\&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge\&logo=numpy)
 
-### Hardware & Embedded Systems
+### Hardware
 
-```txt
-Arduino
-PYNQ-Z2 FPGA
-Sensors & Actuators
-IoT Prototyping
-```
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge\&logo=arduino)
+![FPGA](https://img.shields.io/badge/FPGA-111111?style=for-the-badge)
 
 ---
 
-## 🎯 Learning Roadmap
+# 🎯 Development Roadmap
 
 ```txt
 [✓] Python Programming
+
 [✓] Machine Learning Fundamentals
+
 [✓] Embedded Systems
-[✓] Sensor Integration
-[⟳] FPGA Acceleration
+
+[✓] Data Analytics
+
+[⟳] FPGA Development
+
 [⟳] Edge AI
+
 [ ] Industrial IoT
+
 [ ] Digital Twins
-[ ] Autonomous Monitoring Systems
+
+[ ] Autonomous Systems
+
+[ ] AI Powered Industrial Automation
 ```
 
 ---
 
-## 🌍 Vision
-
-I believe the future belongs to intelligent systems that can monitor, learn, predict, and adapt autonomously.
-
-My goal is to contribute to technologies that bridge the gap between traditional engineering and next-generation AI-driven automation.
-
----
-
-## 📡 Connect
-
-"Learning today. Building tomorrow. Innovating for the future."
+# 📡 Future Vision
 
 ```txt
-SYSTEM STATUS
+The future belongs to intelligent systems that
+can monitor, learn, predict and adapt.
 
-Developer Mode       : ACTIVE
-Learning Progress    : CONTINUOUS
-Innovation Engine    : RUNNING
-Future Projects      : LOADING...
+My mission is to bridge traditional engineering
+with next-generation artificial intelligence.
+
+Building today for the technologies of tomorrow.
 ```
+
+---
+
+# ⚙️ System Status
+
+```yaml
+Learning Progress: █████████░ 90%
+
+Machine Learning: ACTIVE
+
+Embedded Systems: ACTIVE
+
+Project Development: ACTIVE
+
+Innovation Engine: RUNNING
+
+Future Projects: LOADING...
+```
+
+---
+
+<div align="center">
+
+### 🌍 "Engineering Intelligence For Tomorrow"
+
+</div>
